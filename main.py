@@ -132,5 +132,4 @@ randomize_button.pack()
 
 window.mainloop()
 
-#uzun isim sorunları
-#bayrak konumu sabit olmalı
+#The flags are substituted with a default image because the website which provides flags is not giving permission to get images.
